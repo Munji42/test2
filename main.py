@@ -18,4 +18,8 @@ def develop_thing():
     ...
 
 
+def final_func():
+    ...
+
+
 do_something()
