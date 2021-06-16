@@ -14,4 +14,8 @@ def i_wanna_see_graph():
     ...
 
 
+def develop_thing():
+    ...
+
+
 do_something()
