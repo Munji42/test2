@@ -10,4 +10,8 @@ def do_something_else_one_more_time():
     ...
 
 
+def i_wanna_see_graph():
+    ...
+
+
 do_something()
